@@ -1,7 +1,7 @@
 # 🎵 Whimsical Solfège Studio 🌸  
 *Animated Solfège for gentle, self-paced learning*  
 
-![Banner Placeholder](docs/banner.png)  
+![Banner Placeholder](docs/Diagram.jpg)  
 
 ![Flutter](https://img.shields.io/badge/flutter-3.22-blue?logo=flutter)  
 ![License: MIT](https://img.shields.io/badge/License-MIT-pink.svg)  
