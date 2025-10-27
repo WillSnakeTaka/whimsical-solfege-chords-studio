@@ -1,4 +1,7 @@
 # 🎵 Whimsical Solfège Studio 🌸  
+## 🪄 Project Board
+👉 [View Live Project Board]([https://github.com/users/YourUsername/projects/1](https://github.com/users/WillSnakeTaka/projects/4))
+
 *Animated Solfège for gentle, self-paced learning*  
 
 ![Banner Placeholder](docs/Diagram.jpg)  
