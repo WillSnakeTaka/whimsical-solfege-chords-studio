@@ -1,6 +1,6 @@
 # 🎵 Whimsical Solfège Studio 🌸  
 ## 🪄 Project Board
-![Game Link](https://gavtaka.itch.io/whimsical-music-class)
+[Game Link](https://gavtaka.itch.io/whimsical-music-class)
 
 👉 [View Live Project Board](https://github.com/users/WillSnakeTaka/projects/4)
 
